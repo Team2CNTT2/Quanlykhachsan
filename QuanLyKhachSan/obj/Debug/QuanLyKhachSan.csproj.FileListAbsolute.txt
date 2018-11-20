@@ -1,0 +1,56 @@
+F:\study\nam 4\ki 1\demo\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+F:\study\nam 4\ki 1\demo\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+F:\study\nam 4\ki 1\demo\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.userInterface.DatPhong.resources
+F:\study\nam 4\ki 1\demo\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.userInterface.Deluxe.resources
+F:\study\nam 4\ki 1\demo\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.userInterface.DichVu.resources
+F:\study\nam 4\ki 1\demo\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.userInterface.DSphong.resources
+F:\study\nam 4\ki 1\demo\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.userInterface.HoaDon.resources
+F:\study\nam 4\ki 1\demo\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.userInterface.KhachHang.resources
+F:\study\nam 4\ki 1\demo\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.userInterface.KhachSan.resources
+F:\study\nam 4\ki 1\demo\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.userInterface.LayPhong.resources
+F:\study\nam 4\ki 1\demo\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.userInterface.login.resources
+F:\study\nam 4\ki 1\demo\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.userInterface.NhanPhong.resources
+F:\study\nam 4\ki 1\demo\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.userInterface.PhieuHoaDon.resources
+F:\study\nam 4\ki 1\demo\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.userInterface.PhieuThuePhong.resources
+F:\study\nam 4\ki 1\demo\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.userInterface.QuanLy.resources
+F:\study\nam 4\ki 1\demo\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.userInterface.Standard.resources
+F:\study\nam 4\ki 1\demo\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.userInterface.Start.resources
+F:\study\nam 4\ki 1\demo\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.userInterface.Superior.resources
+F:\study\nam 4\ki 1\demo\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.userInterface.TrangChinh.resources
+F:\study\nam 4\ki 1\demo\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.userInterface.TraPhong.resources
+F:\study\nam 4\ki 1\demo\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+F:\study\nam 4\ki 1\demo\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+F:\study\nam 4\ki 1\demo\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.userInterface.Form1.resources
+F:\study\nam 4\ki 1\demo\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+F:\study\nam 4\ki 1\demo\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+F:\study\nam 4\ki 1\demo\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+F:\study\nam 4\ki 1\demo\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+F:\study\nam 4\ki 1\demo\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+F:\GitHub\quanlykhachsan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+F:\GitHub\quanlykhachsan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+F:\GitHub\quanlykhachsan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+F:\GitHub\quanlykhachsan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+F:\GitHub\quanlykhachsan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+F:\GitHub\quanlykhachsan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.userInterface.DatPhong.resources
+F:\GitHub\quanlykhachsan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.userInterface.Deluxe.resources
+F:\GitHub\quanlykhachsan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.userInterface.DichVu.resources
+F:\GitHub\quanlykhachsan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.userInterface.DSphong.resources
+F:\GitHub\quanlykhachsan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.userInterface.Form1.resources
+F:\GitHub\quanlykhachsan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.userInterface.HoaDon.resources
+F:\GitHub\quanlykhachsan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.userInterface.KhachHang.resources
+F:\GitHub\quanlykhachsan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.userInterface.KhachSan.resources
+F:\GitHub\quanlykhachsan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.userInterface.LayPhong.resources
+F:\GitHub\quanlykhachsan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.userInterface.login.resources
+F:\GitHub\quanlykhachsan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.userInterface.NhanPhong.resources
+F:\GitHub\quanlykhachsan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.userInterface.PhieuHoaDon.resources
+F:\GitHub\quanlykhachsan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.userInterface.PhieuThuePhong.resources
+F:\GitHub\quanlykhachsan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.userInterface.QuanLy.resources
+F:\GitHub\quanlykhachsan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.userInterface.Standard.resources
+F:\GitHub\quanlykhachsan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.userInterface.Start.resources
+F:\GitHub\quanlykhachsan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.userInterface.Superior.resources
+F:\GitHub\quanlykhachsan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.userInterface.TrangChinh.resources
+F:\GitHub\quanlykhachsan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.userInterface.TraPhong.resources
+F:\GitHub\quanlykhachsan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+F:\GitHub\quanlykhachsan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+F:\GitHub\quanlykhachsan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+F:\GitHub\quanlykhachsan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb

@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{297CECAE-A80B-4E53-A33F-C7DDE6CB3626}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>QuanLyKhachSan</RootNamespace>
+    <AssemblyName>QuanLyKhachSan</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Player\KetNoi.cs" />
+    <Compile Include="Player\NguoiDung.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="userInterface\DatPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userInterface\DatPhong.designer.cs">
+      <DependentUpon>DatPhong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userInterface\Deluxe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userInterface\Deluxe.designer.cs">
+      <DependentUpon>Deluxe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userInterface\DichVu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userInterface\DichVu.designer.cs">
+      <DependentUpon>DichVu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userInterface\DSphong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userInterface\DSphong.designer.cs">
+      <DependentUpon>DSphong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userInterface\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userInterface\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userInterface\HoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userInterface\HoaDon.Designer.cs">
+      <DependentUpon>HoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userInterface\KhachHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userInterface\KhachHang.designer.cs">
+      <DependentUpon>KhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userInterface\KhachSan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userInterface\KhachSan.designer.cs">
+      <DependentUpon>KhachSan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userInterface\LayPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userInterface\LayPhong.Designer.cs">
+      <DependentUpon>LayPhong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userInterface\login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userInterface\login.designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userInterface\NhanPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userInterface\NhanPhong.designer.cs">
+      <DependentUpon>NhanPhong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userInterface\PhieuHoaDon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userInterface\PhieuHoaDon.designer.cs">
+      <DependentUpon>PhieuHoaDon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userInterface\PhieuThuePhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userInterface\PhieuThuePhong.designer.cs">
+      <DependentUpon>PhieuThuePhong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userInterface\QuanLy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userInterface\QuanLy.designer.cs">
+      <DependentUpon>QuanLy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userInterface\Standard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userInterface\Standard.designer.cs">
+      <DependentUpon>Standard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userInterface\Start.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userInterface\Start.designer.cs">
+      <DependentUpon>Start.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userInterface\Superior.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userInterface\Superior.designer.cs">
+      <DependentUpon>Superior.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userInterface\TrangChinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userInterface\TrangChinh.designer.cs">
+      <DependentUpon>TrangChinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="userInterface\TraPhong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="userInterface\TraPhong.designer.cs">
+      <DependentUpon>TraPhong.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="userInterface\DatPhong.resx">
+      <DependentUpon>DatPhong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userInterface\Deluxe.resx">
+      <DependentUpon>Deluxe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userInterface\DichVu.resx">
+      <DependentUpon>DichVu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userInterface\DSphong.resx">
+      <DependentUpon>DSphong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userInterface\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userInterface\HoaDon.resx">
+      <DependentUpon>HoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userInterface\KhachHang.resx">
+      <DependentUpon>KhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userInterface\KhachSan.resx">
+      <DependentUpon>KhachSan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userInterface\LayPhong.resx">
+      <DependentUpon>LayPhong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userInterface\login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userInterface\NhanPhong.resx">
+      <DependentUpon>NhanPhong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userInterface\PhieuHoaDon.resx">
+      <DependentUpon>PhieuHoaDon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userInterface\PhieuThuePhong.resx">
+      <DependentUpon>PhieuThuePhong.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userInterface\QuanLy.resx">
+      <DependentUpon>QuanLy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userInterface\Standard.resx">
+      <DependentUpon>Standard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userInterface\Start.resx">
+      <DependentUpon>Start.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userInterface\Superior.resx">
+      <DependentUpon>Superior.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userInterface\TrangChinh.resx">
+      <DependentUpon>TrangChinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="userInterface\TraPhong.resx">
+      <DependentUpon>TraPhong.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Resources\Thumbs.db" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\121.ico" />
+    <Content Include="Resources\123123.png" />
+    <Content Include="Resources\1231231.png" />
+    <Content Include="Resources\146.png" />
+    <Content Include="Resources\54.ico" />
+    <Content Include="Resources\6.jpg" />
+    <Content Include="Resources\add.png" />
+    <Content Include="Resources\add1.png" />
+    <Content Include="Resources\add2.png" />
+    <Content Include="Resources\add3.png" />
+    <Content Include="Resources\add_48.png" />
+    <Content Include="Resources\add_481.png" />
+    <Content Include="Resources\AGENDA.png" />
+    <Content Include="Resources\book_481.png" />
+    <Content Include="Resources\cancel_48.png" />
+    <Content Include="Resources\clock.JPG" />
+    <Content Include="Resources\cup_coffee-48.png" />
+    <Content Include="Resources\Deluxe-Ocean-Twin-848x450.jpg" />
+    <Content Include="Resources\designfloat_48.png" />
+    <Content Include="Resources\Dossiers WLM.png" />
+    <Content Include="Resources\down.png" />
+    <Content Include="Resources\feedburner_48.png" />
+    <Content Include="Resources\find.png" />
+    <Content Include="Resources\floppy_disk_48.png" />
+    <Content Include="Resources\floppy_disk_481.png" />
+    <Content Include="Resources\floppy_disk_482.png" />
+    <Content Include="Resources\floppy_disk_483.png" />
+    <Content Include="Resources\HelpHelp.png" />
+    <Content Include="Resources\hinh-nen-powerpoint-don-gian-dep-30.jpg" />
+    <Content Include="Resources\Home.png" />
+    <Content Include="Resources\home_48.png" />
+    <Content Include="Resources\home_481.png" />
+    <Content Include="Resources\ICO-Symbol-Refresh.ico-48x48.png" />
+    <Content Include="Resources\khach-san-holiday-beach-da-nang1.jpg" />
+    <Content Include="Resources\LaST %28Cobalt%29 RTF File.png" />
+    <Content Include="Resources\lock_48.png" />
+    <Content Include="Resources\lock_open_48.png" />
+    <Content Include="Resources\Login Manager.png" />
+    <Content Include="Resources\Login1.png" />
+    <Content Include="Resources\login2.png" />
+    <Content Include="Resources\logo1.png" />
+    <Content Include="Resources\myspace.png" />
+    <Content Include="Resources\NhaCungUng.png" />
+    <Content Include="Resources\NhaCungUng1.png" />
+    <Content Include="Resources\Ok.png" />
+    <Content Include="Resources\Ok1.png" />
+    <Content Include="Resources\paper_pencil_48.png" />
+    <Content Include="Resources\printer.png" />
+    <Content Include="Resources\printer1.png" />
+    <Content Include="Resources\printer2.png" />
+    <Content Include="Resources\questionmark_48.png" />
+    <Content Include="Resources\refresh_48.png" />
+    <Content Include="Resources\refresh_481.png" />
+    <Content Include="Resources\reload.png" />
+    <Content Include="Resources\reload_24.png" />
+    <Content Include="Resources\reload_241.png" />
+    <Content Include="Resources\reload_242.png" />
+    <Content Include="Resources\remove.png" />
+    <Content Include="Resources\remove1.png" />
+    <Content Include="Resources\remove2.png" />
+    <Content Include="Resources\remove3.png" />
+    <Content Include="Resources\Restore.bmp" />
+    <Content Include="Resources\save.png" />
+    <Content Include="Resources\save1.png" />
+    <Content Include="Resources\save2.png" />
+    <Content Include="Resources\save3.png" />
+    <Content Include="Resources\search_48.png" />
+    <Content Include="Resources\stop.png" />
+    <Content Include="Resources\stop1.png" />
+    <Content Include="Resources\stop2.png" />
+    <Content Include="Resources\stop3.png" />
+    <Content Include="Resources\stop4.png" />
+    <Content Include="Resources\Superior-Spa-Ocean-848x450.jpg" />
+    <Content Include="Resources\TDV.bmp" />
+    <Content Include="Resources\Thoat.png" />
+    <Content Include="Resources\Thoat1.png" />
+    <Content Include="Resources\ThongKe.gif" />
+    <Content Include="Resources\ThongKe1.gif" />
+    <Content Include="Resources\users_two_48.png" />
+    <Content Include="Resources\users_two_481.png" />
+    <Content Include="Resources\user_48.png" />
+    <Content Include="Resources\user_add_481.png" />
+    <Content Include="Resources\vault.png" />
+    <Content Include="Resources\VOIG3775-Copy-848x450.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
